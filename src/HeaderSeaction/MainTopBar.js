@@ -123,7 +123,7 @@ export default function SearchAppBar() {
                 component="div"
                 sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
               >
-                A-Test
+                P-tier-Test
               </Typography>
               <Search>
                 <SearchIconWrapper>
